@@ -2,6 +2,7 @@ import Link from 'next/link'
 import Head from "next/head"
 import { Fragment } from 'react'
 import styles from "../../styles/Users.module.css"
+
 export const getStaticProps = async ()=>{
   const res = await fetch('https://jsonplaceholder.typicode.com/users')
   const data = await res.json()

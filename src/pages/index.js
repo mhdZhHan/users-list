@@ -21,7 +21,7 @@ function Home() {
          </p>
          <Link href="/users">
            <a className={styles.btn}>Users List</a>
-          </Link>
+         </Link>
     </div>
     </Fragment>
   )
