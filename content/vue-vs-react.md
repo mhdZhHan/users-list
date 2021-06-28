@@ -2,7 +2,7 @@
 slug: vue-vs-react
 title: Vue vs React
 description: "Vue vs React in 2021: Which Framework to Choose and When"
-img: ./Blog images/vuevsreact.jpg
+img: /Blog images/vuevsreact.jpg
 date: 06 August 2020
 ---
 

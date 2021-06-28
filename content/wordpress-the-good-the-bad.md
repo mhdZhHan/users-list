@@ -2,7 +2,7 @@
 slug: wordpress-the-good-the-bad
 title: "WordPress: The good and the bad"
 description: We love a lot of things about WordPress. It has so many time-saving features that it makes a lot of the heavy lifting of web development much lighter.
-img: ./Blog images/wordpress-good-bad.png
+img: /Blog images/wordpress-good-bad.png
 date: 24 June 2020
 ---
 

@@ -2,7 +2,7 @@
 slug: best-web-dev-technologies
 title: Top 10 web dev technologies
 description: The arsenal of web development tools available to skyrocket your website’s user experience to the next level is enormous. 
-img: ./Blog images/Technologies.png
+img: /Blog images/Technologies.png
 date: 17 Febuary 2021
 ---
 
