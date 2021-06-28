@@ -2,28 +2,26 @@
     h1 {
         text-align: center;
     }
-    .card{
+    .box{
         width: 100%;
         display: flex;
         flex-wrap: wrap;
         justify-content: flex-start;
-        margin-top: -10px;
+        gap: 20px;
     }
     .blogPost{
         width: 33.33%;
         text-align: center;
-        padding: 0 15px;
-        margin: 10px 0;
     }
     .blogPost > div{
         background-color: #f2f2f2;
         padding: 10px 10px;
         border-radius: 10px;
-        box-shadow: 1px 1px 4px rgba(0,0,0,0.3);
+        box-shadow: 1px 1px 4px rgba(32, 30, 30, 0.3);
         height:500px;
     }
     .blogTitle{
-        font-weight: bold;
+        font-weight: 700;
         text-transform: capitalize;
         font-size: 2rem;
     }
@@ -63,9 +61,7 @@
     }
 }
 
-// .container{
-//     margin: 20px auto;
-//     width: 100%;
-//     max-width: 1200px;
-//     padding: 0 20px;
-// }
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+}

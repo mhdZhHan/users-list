@@ -26,7 +26,7 @@ const Blog = (props) => {
         <div id="blog-posts">
             <h1>Blog Posts</h1>
             <div className="container">
-                <div className="card">
+                <div className="box">
                     {listItems.map((blog, index)=>(
                         <BlogPost key={index} blog={blog}/>
                     ))}
