@@ -7,7 +7,4 @@ module.exports = {
     })
     return config
   },
-  // images: {
-  //   domains: ['http://localhost:3000/'],
-  // },
 }

@@ -23,7 +23,7 @@ const Blog = (props) => {
     const realData = props.data.map(blog=> matter(blog))
     const listItems = realData.map(listItem => listItem.data)
     return ( 
-        <section id="blog-posts">
+        <div id="blog-posts">
             <h1>Blog Posts</h1>
             <div className="container">
                 <div className="card">
@@ -32,7 +32,7 @@ const Blog = (props) => {
                     ))}
                 </div>
             </div>
-        </section>
+        </div>
      )
 }
  
